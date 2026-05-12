@@ -170,23 +170,4 @@ This dashboard helps businesses:
 ## Dashboard Preview
 ![Blinkit Sales Dashboard]()
 
----
 
-## Conclusion
-
-The Superstore Sales Dashboard demonstrates the effective use of Power BI for retail sales analytics and business intelligence. By combining KPI tracking, trend analysis, regional insights, and interactive visualizations, the dashboard enables organizations to make informed strategic decisions and improve overall business performance.
-
----
-
-## Project Files
-
-- Superstore Sales Dashboard.pbix
-- README.md
-- Dashboard Screenshot (.png)
-
----
-
-## Author
-
-Sameer Ansari  
-Aspiring Data Analyst | Power BI Developer
