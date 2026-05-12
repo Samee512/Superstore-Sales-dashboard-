@@ -168,6 +168,6 @@ This dashboard helps businesses:
 ---
 
 ## Dashboard Preview
-![Blinkit Sales Dashboard]()
+![Blinkit Sales Dashboard](https://github.com/Samee512/Superstore-Sales-dashboard-/blob/main/Snapshot%20of%20Dashboard.png)
 
 
